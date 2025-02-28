@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume Template</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="resume">
+    <header>
+      <h1>Ishaan Agarwal</h1>
+      <p>Ikeja GRA, Lagos, Nigeria</p>
+      <p>+234811 000 2444 | ishaan@example.com</p>
+    </header>
+
+    <section class="summary">
+      <h2>Summary</h2>
+      <p>
+        Customer-focused Retail Sales professional with solid understanding of retail dynamics, marketing, and customer service. Offering 3 years of experience providing quality product recommendations and solutions to meet customer needs and exceed expectations. Demonstrated record of exceeding revenue targets by leveraging communication skills and sales expertise.
+      </p>
+    </section>
+
+    <section class="experience">
+      <h2>Experience</h2>
+      <div class="job">
+        <h3>PEP Lagos - Retail Sales Associate</h3>
+        <p>Lekki, Lagos Mall, Lagos | February 2017 to Current</p>
+        <ul>
+          <li>Increased monthly sales 10% by effectively upselling and cross-selling products to maximize profitability.</li>
+          <li>Prevented store losses by leveraging awareness, attention to detail, and integrity to identify and investigate concerns.</li>
+          <li>Processed payments and maintained accurate store financial targets.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Cash register operation</li>
+        <li>POS system operations</li>
+        <li>Sales expertise</li>
+        <li>Teamwork</li>
+        <li>Inventory management</li>
+        <li>Secure money handling</li>
+        <li>Financial documentation and recordkeeping</li>
+        <li>Retail merchandising expertise</li>
+      </ul>
+    </section>
+
+    <section class="education">
+      <h2>Education</h2>
+      <p><strong>Anchor University</strong></p>
+      <p>B.A. in Sociology and Anthropology</p>
+      <p>Lagos | 06/2018</p>
+    </section>
+  </div>
+</body>
+</html>
